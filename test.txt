@@ -1,4 +1,8 @@
 Version 1 - ricohoho
+<<<<<<< HEAD
 dev ...
 dev
 main
+=======
+dev ....
+>>>>>>> 87b79df2a16ab14fabc25764ae1a86c17dff7801
